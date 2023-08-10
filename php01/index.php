@@ -1,6 +1,6 @@
 <?php 
 class Pessoa {
-
+  //atributos
   public $nome;
   public $idade;
   //método falar
